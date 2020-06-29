@@ -36,7 +36,7 @@ const Footer = () => (
       </FooterColumn>
     </FooterColumnContainer>
     <BrandContainer>
-      <Logo>Finance</Logo>
+      <Logo>SaasCall</Logo>
     </BrandContainer>
   </FooterWrapper>
 )
