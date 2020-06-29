@@ -7,41 +7,41 @@ const Features = () => (
   <Section id="features">
     <StyledContainer>
       <Subtitle>Features</Subtitle>
-      <SectionTitle>Smart money management</SectionTitle>
+      <SectionTitle>callsaasはフツーの電話代行サービスとはちょっと違います</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
-          <FeatureTitle>Notifications</FeatureTitle>
+          <FeatureTitle>選べる通知機能</FeatureTitle>
           <FeatureText>
-            Receive budget and spending alerts based on your favorite triggers.
+            Slack, Discord, Mail, Teams, Google Chatに対応
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>Security</FeatureTitle>
           <FeatureText>
             Your data is always safe with us as we use the latest security
-            protocols.
+            protocols.（このまま使えそう）
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>Automation</FeatureTitle>
           <FeatureText>
-            Create smart automated workflows and triggers for your money.
+            あなたのビジネスを最適化するためのスマートなワークフローを構築します。
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>Aggregation</FeatureTitle>
           <FeatureText>
-            Easily link up to 5 banks to your finance account.
+          着信を拒否したい相手の電話番号を30件まで登録することができます。
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Payments</FeatureTitle>
-          <FeatureText>Send money to friends and family with ease.</FeatureText>
+          <FeatureTitle>業界最安</FeatureTitle>
+          <FeatureText>基本料金100ドル+月100件まで無料</FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Rewards</FeatureTitle>
+          <FeatureTitle>オンライン完結</FeatureTitle>
           <FeatureText>
-            High interest and rewards for hitting your goals.
+          ネットで簡単にセットアップできます。面倒な書類等不要です。
           </FeatureText>
         </FeatureItem>
       </FeaturesGrid>
