@@ -27,23 +27,22 @@ const Header = () => {
       <Container>
         <Flex>
           <HeaderTextGroup>
-            <Subtitle>Personal Finance</Subtitle>
+            <Subtitle>callsaasが会社・事務所の電話受付を代行します</Subtitle>
             <h1>
-              All your money,
+            オフィスの電話対応を,
               <br />
-              one account
+              ゼロに！
             </h1>
             <h2>
-              We're building next generation personal finance tools. Sign up to
-              get early access.
+            ＼今先行登録すると、14日間無料で使えます／
             </h2>
             <HeaderForm onSubmit={handleSubmit}>
               <HeaderInput placeholder="Your email" />
               <HeaderButton>Early access</HeaderButton>
             </HeaderForm>
             <FormSubtitle>
-              Already have a beta account?{" "}
-              <FormSubtitleLink to="/">Sign in</FormSubtitleLink>
+              {" "}
+              <FormSubtitleLink to="/">サービス資料ダウンロード</FormSubtitleLink>
             </FormSubtitle>
           </HeaderTextGroup>
           <ImageWrapper>
