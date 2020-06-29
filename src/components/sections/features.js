@@ -16,22 +16,23 @@ const Features = () => (
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Security</FeatureTitle>
+          <FeatureTitle>安心のセキュリティ</FeatureTitle>
           <FeatureText>
-            Your data is always safe with us as we use the latest security
-            protocols.（このまま使えそう）
+            {/* Your data is always safe with us as we use the latest security
+            protocols.（このまま使えそう） */}
+            顧客のデータは厳格に保護されるので、ビジネスに安心してご利用いただけます。
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Automation</FeatureTitle>
+          <FeatureTitle>最適なワークフロー</FeatureTitle>
           <FeatureText>
             あなたのビジネスを最適化するためのスマートなワークフローを構築します。
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Aggregation</FeatureTitle>
+          <FeatureTitle>法人/個人どちらでもOK</FeatureTitle>
           <FeatureText>
-          着信を拒否したい相手の電話番号を30件まで登録することができます。
+          法人でも個人でもご利用いただけます。
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
@@ -41,7 +42,7 @@ const Features = () => (
         <FeatureItem>
           <FeatureTitle>オンライン完結</FeatureTitle>
           <FeatureText>
-          ネットで簡単にセットアップできます。面倒な書類等不要です。
+          オンラインで簡単申込。面倒な書類等不要です。
           </FeatureText>
         </FeatureItem>
       </FeaturesGrid>
